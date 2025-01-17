@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">.QuickNotes.</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_create_note">CreateNoteActivity</string>
+    <string name="title_activity_view_edit_note">ViewEditNoteActivity</string>
+    <string name="noFavItem">No Item in Favourites!</string>
+    <string name="noNotes">No Notes Avavilable!</string>
+</resources>
